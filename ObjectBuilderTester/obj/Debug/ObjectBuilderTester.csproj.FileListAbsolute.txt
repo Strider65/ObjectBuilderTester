@@ -1,0 +1,19 @@
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.exe.config
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.exe
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.pdb
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.Form1.resources
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.Properties.Resources.resources
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.csproj.GenerateResource.cache
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.csproj.CoreCompileInputs.cache
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.exe
+C:\Users\ccomb\Documents\Visual Studio Projects\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.pdb
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.exe.config
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.exe
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\bin\Debug\ObjectBuilderTester.pdb
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.csprojAssemblyReference.cache
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.Form1.resources
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.Properties.Resources.resources
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.csproj.GenerateResource.cache
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.csproj.CoreCompileInputs.cache
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.exe
+C:\Users\ccomb\Documents\ObjectBuilderTester\ObjectBuilderTester\obj\Debug\ObjectBuilderTester.pdb
